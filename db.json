@@ -74,15 +74,15 @@
         },
         {
             "id": 7,
-            "poster": "https://cdn.vox-cdn.com/thumbor/sgipj7V6znsZnXf0GIgaBKecT-s=/0x0:1080x1350/1120x0/filters:focal(0x0:1080x1350):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23044196/FE9jg29WUAAe85I.jpeg",
-            "event": "UFC Fight Night",
-            "heading": "Lewis vs Daukaus",
-            "desc": "UFC Fight Night: Lewis vs. Daukaus was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on December 18, 2021 at the UFC Apex facility in Enterprise, Nevada, part of the Las Vegas Metropolitan Area, United States.",
+            "poster": "https://cdn.vox-cdn.com/thumbor/C7s6e8cEsJcejtYtfGIhENFJi9g=/0x0:623x900/1120x0/filters:focal(0x0:623x900):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24413362/FoH_oHWXoAEuoSe.jpeg",
+            "event": "UFC on ESPN",
+            "heading": "Vera vs Sandhagen",
+            "desc": "UFC on ESPN: Vera vs. Sandhagen is a mixed martial arts event produced by the Ultimate Fighting Championship that took place on March 25, 2023, at the AT&T Center in San Antonio, Texas, United States.",
             "promotion": "Ultimate Fighting Championship",
-            "date": "December 18, 2021",
-            "venue": "UFC Apex",
-            "city": "Enterprise, Nevada, United States",
-            "youtube": "https://youtu.be/NN4D1WaHrcU"
+            "date": "March 25, 2023",
+            "venue": "AT&T Center",
+            "city": "San Antonio, Texas, United States",
+            "youtube": ""
         },
         {
             "id": 8,
@@ -143,6 +143,18 @@
             "venue": "UFC Apex",
             "city": "Enterprise, Nevada, United States",
             "youtube": "https://youtu.be/OH_fMnfYqpY"
+        },
+        {
+            "id": 13,
+            "poster": "https://cdn.vox-cdn.com/thumbor/SpNJrfLJ8qOmEcKnFURdisnbZcY=/0x0:623x900/1120x0/filters:focal(0x0:623x900):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24473458/FqNepNqXsAIix_a.jpeg",
+            "event": "UFC Fight Night",
+            "heading": "Yan vs Dvalishvili",
+            "desc": "UFC Fight Night: Yan vs. Dvalishvili was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on March 11, 2023, at The Theater at Virgin Hotels in Paradise, Nevada part of the Las Vegas Metropolitan Area, United States.",
+            "promotion": "Ultimate Fighting Championship",
+            "date": "March 11, 2023",
+            "venue": "The Theater at Virgin Hotels",
+            "city": "Paradise, Nevada, United States",
+            "youtube": ""
         }
     ]
 }
