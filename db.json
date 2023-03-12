@@ -9,7 +9,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "February 4, 2023",
             "venue": "UFC Apex",
-            "city": "Enterprise, Nevada, United States"
+            "city": "Enterprise, Nevada, United States",
+            "youtube": "https://youtu.be/CTT6vg6pJuE"
         },
         {
             "id": 2,
@@ -20,7 +21,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "October 29, 2022",
             "venue": "UFC Apex",
-            "city": "Enterprise, Nevada, United States"
+            "city": "Enterprise, Nevada, United States",
+            "youtube": "https://youtu.be/1e7J24qTBww"
         },
         {
             "id": 3,
@@ -31,7 +33,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "July 9, 2022",
             "venue": "UFC Apex",
-            "city": "Enterprise, Nevada, United States"
+            "city": "Enterprise, Nevada, United States",
+            "youtube": ""
         },
         {
             "id": 4,
@@ -42,7 +45,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "August 21, 2021",
             "venue": "UFC Apex",
-            "city": "Enterprise, Nevada, United States"
+            "city": "Enterprise, Nevada, United States",
+            "youtube": "https://youtu.be/5YQcqZUgcXI"
         },
         {
             "id": 5,
@@ -53,7 +57,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "February 6, 2021",
             "venue": "UFC Apex",
-            "city": "Enterprise, Nevada, United States"
+            "city": "Enterprise, Nevada, United States",
+            "youtube": "https://youtu.be/Dh9KGkeXNQI"
         },
         {
             "id": 6,
@@ -64,7 +69,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "July 16, 2022",
             "venue": "UBS Arena",
-            "city": "Elmont, New York, United States"
+            "city": "Elmont, New York, United States",
+            "youtube": "https://youtu.be/pnadO_RrYrQ"
         },
         {
             "id": 7,
@@ -75,7 +81,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "December 18, 2021",
             "venue": "UFC Apex",
-            "city": "Enterprise, Nevada, United States"
+            "city": "Enterprise, Nevada, United States",
+            "youtube": "https://youtu.be/NN4D1WaHrcU"
         },
         {
             "id": 8,
@@ -86,7 +93,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "December 6, 2020",
             "venue": "UFC Apex",
-            "city": "Enterprise, Nevada, United States"
+            "city": "Enterprise, Nevada, United States",
+            "youtube": ""
         },
         {
             "id": 9,
@@ -97,7 +105,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "June 29, 2019",
             "venue": "Target Center",
-            "city": "Minneapolis, Minnesota"
+            "city": "Minneapolis, Minnesota",
+            "youtube": "https://youtu.be/VkngUfEsO1c"
         },
         {
             "id": 10,
@@ -108,7 +117,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "September 28, 2019",
             "venue": "Royal Arena",
-            "city": "Copenhagen, Denmark"
+            "city": "Copenhagen, Denmark",
+            "youtube": "https://youtu.be/xMumteG8wnY"
         },
         {
             "id": 11,
@@ -119,7 +129,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "October 18, 2020",
             "venue": "du Forum",
-            "city": "Abu Dhabi, United Arab Emirates"
+            "city": "Abu Dhabi, United Arab Emirates",
+            "youtube": "https://youtu.be/b08jQwyrbxg"
         },
         {
             "id": 12,
@@ -130,7 +141,8 @@
             "promotion": "Ultimate Fighting Championship",
             "date": "May 23, 2021",
             "venue": "UFC Apex",
-            "city": "Enterprise, Nevada, United States"
+            "city": "Enterprise, Nevada, United States",
+            "youtube": "https://youtu.be/OH_fMnfYqpY"
         }
     ]
 }
